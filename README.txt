@@ -1,5 +1,3 @@
-Estudo - Funcionamento do algoritmo:
-
 def insertion_sort(v):
     for i in range(1, len(v)):
         x = v[i]
